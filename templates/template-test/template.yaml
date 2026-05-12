@@ -1,0 +1,7 @@
+name: template-test
+description: template-test
+version: 1.0.0
+stack:
+  - astro
+tags: []
+dependencies: []
