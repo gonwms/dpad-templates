@@ -1,7 +1,0 @@
-name: template-lenis
-description: template-lenis
-version: 1.0.0
-stack:
-  - template-lenis
-tags: []
-dependencies: []
