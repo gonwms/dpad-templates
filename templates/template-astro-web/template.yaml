@@ -1,0 +1,8 @@
+name: template astro web
+description: template astro web
+version: 1.0.0
+stack:
+  - astro
+tags:
+  - astro
+dependencies: []
